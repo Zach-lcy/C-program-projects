@@ -1,2 +1,2 @@
-# C-program-projects
+# Cprojects
 My programs in C language
